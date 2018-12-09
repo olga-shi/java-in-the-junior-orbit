@@ -1,4 +1,4 @@
-package org.kosmocourses.junior.lesson;
+package org.kosmocourses.junior.lesson1;
 
 import org.junit.Test;
 
